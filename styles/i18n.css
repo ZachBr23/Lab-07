@@ -1,14 +1,8 @@
-/* Example for right-to-left languages like Arabic or Hebrew */
-/*
-body {
+.rtl-demo {
     direction: rtl;
 }
-*/
 
-/* Example for vertical writing systems like Japanese or Korean */
-/*
-body {
+.vertical-demo {
     writing-mode: vertical-rl;
     text-orientation: upright;
 }
-*/
