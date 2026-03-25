@@ -1,0 +1,14 @@
+/* Example for right-to-left languages like Arabic or Hebrew */
+/*
+body {
+    direction: rtl;
+}
+*/
+
+/* Example for vertical writing systems like Japanese or Korean */
+/*
+body {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+*/
